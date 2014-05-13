@@ -1,3 +1,24 @@
+## humanoid_msgs (indigo) - 0.3.0-0
+
+The packages in the `humanoid_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release humanoid_msgs --track indigo --rosdistro indigo --new-track` on `Tue, 13 May 2014 10:00:43 -0000`
+
+These packages were released:
+- `humanoid_msgs`
+- `humanoid_nav_msgs`
+
+Version of package(s) in repository `humanoid_msgs`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.7`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.32`
+
+
 ## humanoid_msgs - 0.3.0-0
 
 User `hornunga@colorrado` released the packages in the `humanoid_msgs` repository by running `/usr/bin/bloom-release --ros-distro hydro --track hydro humanoid_msgs` on `Thu, 16 Jan 2014 11:16:29 -0000`
