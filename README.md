@@ -1,3 +1,24 @@
+## humanoid_msgs (groovy) - 0.3.0-1
+
+The packages in the `humanoid_msgs` repository were released into the `groovy` distro by running `/usr/bin/bloom-release --track groovy --ros-distro groovy humanoid_msgs` on `Fri, 23 May 2014 08:35:47 -0000`
+
+These packages were released:
+- `humanoid_msgs`
+- `humanoid_nav_msgs`
+
+Version of package(s) in repository `humanoid_msgs`:
+- rosdistro version: `0.3.0-0`
+- old version: `0.3.0-0`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.32`
+
+
 ## humanoid_msgs (indigo) - 0.3.0-0
 
 The packages in the `humanoid_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release humanoid_msgs --track indigo --rosdistro indigo --new-track` on `Tue, 13 May 2014 10:00:43 -0000`
